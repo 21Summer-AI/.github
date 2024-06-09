@@ -1,4 +1,4 @@
-# .github
+
 # Welcome to [Your Organization's Name]
 
 ![Organization Logo](path/to/logo.png)
